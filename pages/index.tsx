@@ -1,14 +1,15 @@
 import HomeLayouts from "@/layouts/HomeLayouts"
 
 const Main = () => {
+  const title = "Welcome"
   return (
 
     <>
       <div>
         <HomeLayouts>
-          asdasd
+          {title}
         </HomeLayouts>
-      </div>
+     `` </div>
     </>
   )
 }
