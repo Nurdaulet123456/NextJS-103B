@@ -9,7 +9,7 @@ const Main = () => {
         <HomeLayouts>
           {title}
         </HomeLayouts>
-     `` </div>
+      </div>
     </>
   )
 }
