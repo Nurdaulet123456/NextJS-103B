@@ -1,7 +1,14 @@
+import HomeLayouts from "@/layouts/HomeLayouts"
+
 const Main = () => {
   return (
+
     <>
-      asdasdasd
+      <div>
+        <HomeLayouts>
+          asdasd
+        </HomeLayouts>
+      </div>
     </>
   )
 }

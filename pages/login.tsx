@@ -1,11 +1,14 @@
 import Link from "next/link"
+import HomeLayouts from "@/layouts/HomeLayouts"
+// OnClick
 
 const LoginPage = () => {
+
     return (
         <div>
-            <Link href={'/'}>
-                <div>Signup</div>
-            </Link>
+            <HomeLayouts>
+                asdasdasdasd
+            </HomeLayouts>
         </div>
     )
 }
