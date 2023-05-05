@@ -1,5 +1,5 @@
 import type { AppProps } from 'next/app'
-import '../styles/style.sass'
+import '../styles/style.css'
 import Head from 'next/head'
 
 export default function App({ Component, pageProps }: AppProps) {
