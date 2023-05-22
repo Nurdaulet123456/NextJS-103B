@@ -1,0 +1,11 @@
+#path-2 {
+    fill: black
+}
+
+#path-1 {
+    fill: black;
+}
+
+#path-1:hover {
+    fill: red;
+}
